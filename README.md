@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Discord Bots: Javascript -> DiscordJS(V13)
 - 📫 How to reach me ... In Discord, this is my tag: Sasuque#3810
-- 🌍 Language?... I can speak fluently: english, catalàn. I'm a spanish native! _(from Valencia)_ 
+- 🌍 Language?... I can speak fluently: English, Valencià (català). I'm a Spanish native! _(from Valencia)_ 
 
 <!---
 Sasuque-Bot/Sasuque-Bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
